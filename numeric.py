@@ -1,0 +1,9 @@
+a='123'
+b=a.isdigit()
+print(b)
+b='str'
+c=b.isdigit()
+print(c)
+d='v434'
+e=d.isdigit()
+print(e)
